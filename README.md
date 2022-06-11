@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **Adrian989@me.com**
 
-- ⚡ Fun fact [I have dad humor, and I'm not even a dad.](I have dad humor, and I'm not even a dad.)
+- ⚡ Fun fact I have dad humor, and I'm not even a dad.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
