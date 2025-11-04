@@ -1,17 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adrian Fredriksen</h1>
 <h3 align="center">Im a passionate frontend developer from Norway.</h3>
 
-- 🌱 I’m currently learning **NextJs, SvelteKit, SolidJs, Expessjs.**
-
-- 👯 I’m looking to collaborate on **Anything**
-
-- 👨‍💻 All of my projects are available at [www.github.com/adrianfred](www.github.com/adrianfred)
-
-- 💬 Ask me about **NextJs/React, Tailwind and Motorcycles.**
-
-- 📫 How to reach me **Mail me at Adrian989@me.com.**
-
-- ⚡ Fun fact **Love bad jokes and beer.**
 
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianfred&show_icons=true&locale=en&layout=compact" alt="adrianfred" />
