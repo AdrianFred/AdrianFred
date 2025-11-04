@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Adrian</h1>
 <h3 align="center">Frontend developer from Norway</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adrianfred&label=Profile%20views&color=0e75b6&style=flat" alt="adrianfred" /> </p>
-
 - 🔭 I’m currently working at **Konciv**
+
+- 🌱 I’m currently learning **svelte**
+
+- 💬 Ask me about **anything**
+
+- ⚡ Fun fact **love bad jokes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
