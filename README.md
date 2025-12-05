@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at **Konciv**
 
-- 🌱 I’m currently learning **svelte**
+- 🌱 I’m currently learning **Tanstack Start**
 
 - 💬 Ask me about **anything**
 
