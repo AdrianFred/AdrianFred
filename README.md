@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working at **Konciv** as a Project Manager and Developer
 
-- 🌱 I’m currently lI’m currently learning Tanstack Startearning **svelte**
+- 🌱 I’m currently lI’m currently learning Tanstack Start
 
-- 💬 Ask me about anything **anything**
+- 💬 Ask me about **anything**
 
-- ⚡ Fun fact love bad jokes **love bad jokes**
+- ⚡ Fun fact **love bad jokes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
