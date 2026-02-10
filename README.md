@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adrian</h1>
 <h3 align="center">Frontend developer from Norway</h3>
 
-- 🔭 I’m currently working at Konciv **Konciv**
+- 🔭 I’m currently working at **Konciv** as a Project Manager and Developer
 
 - 🌱 I’m currently lI’m currently learning Tanstack Startearning **svelte**
 
